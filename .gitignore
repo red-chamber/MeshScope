@@ -1,5 +1,6 @@
-build/
-build-*/
-output/*.ppm
+/build/
+/build-*/
+/output/*
+!/output/.gitkeep
 *.o
 *.obj
