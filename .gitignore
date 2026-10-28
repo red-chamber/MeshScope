@@ -1,0 +1,6 @@
+build/
+build-release/
+output/*.ppm
+*.exe
+*.o
+*.obj
