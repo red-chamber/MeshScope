@@ -8,8 +8,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(meshscope
     src/main.cpp
-    src/image.cpp
-    src/rasterizer.cpp
 )
 
 target_include_directories(meshscope PRIVATE include)
